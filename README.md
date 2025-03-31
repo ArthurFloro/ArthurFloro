@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é **Arthur Floro** e tenho 17 anos. Estou apenas começando minha jornada na área da tecnologia, mas já encontrei minha paixão nesse campo. Concluí o ensino médio em 2024, onde tive a oportunidade de cursar o técnico de TI integrado. Foi durante esse período que tive meus primeiros contatos com a programação, descobrindo o caminho profissional que desejo seguir.
+Olá! Meu nome é **Arthur Floro** e tenho 18 anos. Estou apenas começando minha jornada na área da tecnologia, mas já encontrei minha paixão nesse campo. Concluí o ensino médio em 2024, onde tive a oportunidade de cursar o técnico de TI integrado. Foi durante esse período que tive meus primeiros contatos com a programação, descobrindo o caminho profissional que desejo seguir. Atualmente estou no 2° período da faculdade de ADS na Faculdade Senac Pe, desenvolvendo ainda mais meus conhecimentos na programação
 
  **Paulista, PE - Brazil**.
 
